@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ductran2702/ductran2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ReactJS, NodeJS
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tranduc2702@gmail.com
 - 😄 Pronouns: Duc
 - ⚡ Fun fact: I'm funny.
--->
