@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Buddhism, eastern philosophy, tech
 - 📫 How to reach me: tranduc2702@gmail.com
 - 😄 Pronouns: Duc
-- ⚡ Fun fact: I'm funny
+- ⚡ Fun fact: I'm funny.
 -->
